@@ -1,3 +1,8 @@
+~~~
+更新结束：此程序将停止相关更新，即使数据已失效。
+Update complete: This program will stop updates even if the data is invalid.
+~~~
+
 # 疫情查询 - Query of epidemic
 这是一个用于查询 COVID-19 在中国区统计数据的 WPF 程序。数据源为丁香园，链接见文档内。
 
